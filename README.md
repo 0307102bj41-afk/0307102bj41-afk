@@ -33,7 +33,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=data:image/png;base64,&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Embedded / Hardware**
@@ -92,12 +92,11 @@ STM32F411(Cortex-M4) 기반 조이스틱 컨트롤러 + RC카 구동 펌웨어�
 
 | 기간 | 내용 |
 |------|------|
-| 2025.12.23 – 2026.07.21 | 대한상공회의소 |
+| 2025.12 – 2026.07 | 대한상공회의소 × 한화로보틱스 · 로보티즈 — AI융합 로봇 SW개발자 2기 |
 | 2026 | 2026 ICT 융합 공모전 출품 — CleanCheck |
 
 ---
 
 <div align="center">
-<sub>📬 0307102bj41@gmail.com</sub>
-<sub>📬 [0307102bj41@gmail.com](https://0307102bj41-afk.github.io/)</sub>
+<sub>📬 <a href="mailto:0307102bj41@gmail.com">0307102bj41@gmail.com</a></sub>
 </div>
