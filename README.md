@@ -68,13 +68,13 @@
 
 | 항목 | 내용 |
 |------|------|
-| 모델 | ResNet50 · YOLOv8 · OpenAI CLIP · Meta SAM |
+| 모델 | ResNet50 · YOLOv26 · OpenAI CLIP · Meta SAM |
 | 데이터 | 자체 구축 4,066장 (방 2,756 / 책상 1,310) |
 | 성능 | 책상 Accuracy 96.56% · F1 0.9560 · AUC 0.9971 |
 | 성능 | 방 Accuracy 95.97% · F1 0.9559 · AUC 0.9917 |
 | 하드웨어 | Raspberry Pi 5 + 부저 실시간 알림 연동 |
 
-`Python` `Keras` `YOLOv8` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
+`Python` `Keras` `YOLOv26` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
 
 ---
 
