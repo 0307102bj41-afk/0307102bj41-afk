@@ -9,7 +9,7 @@
 
 <br/>
 
-#  [Portfolio](https://0307102bj41-afk.github.io/)
+# [Portfolio](https://0307102bj41-afk.github.io/)
 
 > CleanCheck · STM32 RC Control 프로젝트 상세 문서 포함
 
@@ -60,7 +60,7 @@
 
 ## Projects
 
-### 🧹 CleanCheck — 딥러닝 기반 생활공간 청결도 자동 진단 시스템
+### 🧹 CleanCheck — 딥러닝 기반 생활공간 청결도 자동 진단 시스템 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Kor-JasonKim/DeepLearning_Project)
 > 2026 ICT 융합 공모전 출품작 · 팀 돼지우리 (4인)
 
 스마트폰·IoT 홈캠으로 실내 환경을 촬영하면 CNN/YOLO/CLIP/SAM 멀티모델 앙상블이
@@ -68,17 +68,17 @@
 
 | 항목 | 내용 |
 |------|------|
-| 모델 | ResNet50 · YOLOv26 · OpenAI CLIP · Meta SAM |
+| 모델 | ResNet50 · YOLOv8 · OpenAI CLIP · Meta SAM |
 | 데이터 | 자체 구축 4,066장 (방 2,756 / 책상 1,310) |
 | 성능 | 책상 Accuracy 96.56% · F1 0.9560 · AUC 0.9971 |
 | 성능 | 방 Accuracy 95.97% · F1 0.9559 · AUC 0.9917 |
 | 하드웨어 | Raspberry Pi 5 + 부저 실시간 알림 연동 |
 
-`Python` `Keras` `YOLOv26` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
+`Python` `Keras` `YOLOv8` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
 
 ---
 
-### 🚗 STM32 RC Control — 레지스터 기반 임베디드 제어 시스템
+### 🚗 STM32 RC Control — 레지스터 기반 임베디드 제어 시스템 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/0307102bj41-afk/STM32_RCCAR_CONTROLLER)
 > 개인 프로젝트 · 학습형 / 코드리뷰형
 
 STM32F411(Cortex-M4) 기반 조이스틱 컨트롤러 + RC카 구동 펌웨어를
