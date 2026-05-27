@@ -1,12 +1,6 @@
 <!-- header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║          AI · Embedded · Builder                     ║
-╚══════════════════════════════════════════════════════╝
-```
-
 # 0307102bj41-afk
 
 **AI / Machine Learning · Embedded / Hardware**
