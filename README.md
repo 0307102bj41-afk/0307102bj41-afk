@@ -1,7 +1,7 @@
 <!-- header -->
 <div align="center">
 
-# 0307102bj41-afk
+# 김동석
 
 **AI / Machine Learning · Embedded / Hardware**
 
