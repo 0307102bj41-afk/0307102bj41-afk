@@ -82,7 +82,7 @@
 ---
 
 ### STM32 RC Control — 레지스터 기반 임베디드 제어 시스템 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/0307102bj41-afk/STM32_RCCAR_CONTROLLER)
-> 개인 프로젝트 · 학습형 / 코드리뷰형
+> 팀 프로젝트 · 임베디드 펌웨어 / 학습형,코드리뷰형
 
 STM32F411(Cortex-M4) 기반 조이스틱 컨트롤러 + RC카 구동 펌웨어를
 레지스터 레벨에서 end-to-end로 구현한 임베디드 프로젝트.
