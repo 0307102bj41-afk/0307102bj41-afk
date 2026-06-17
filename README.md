@@ -68,7 +68,7 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="68%" valign="top">
 
 | 항목 | 내용 |
 |------|------|
@@ -88,7 +88,7 @@
 `Python` `Keras` `YOLO` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="32%" valign="top" align="center">
 
 <img src="https://0307102bj41-afk.github.io/assets/ai_uiux2.png" width="100%" alt="CleanCheck 판독 결과 화면">
 <br/>
