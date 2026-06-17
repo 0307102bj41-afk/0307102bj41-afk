@@ -10,8 +10,8 @@
 
 <br/>
 
-<a href="https://0307102bj41-afk.github.io/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=150&text=My%20Portfolio&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=55&width=900" />
+<a href="https://0307102bj41-afk.github.io/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=View+My+Portfolio+%E2%86%92;CleanCheck+%C2%B7+STM32+%C2%B7+PLC+MPS&font=Fira+Code&size=28&duration=2800&pause=800&color=0047AB&center=true&width=700&height=60" />
 </a>
 
 <br/>
@@ -68,7 +68,7 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="58%" valign="top">
 
 | 항목 | 내용 |
 |------|------|
@@ -88,7 +88,7 @@
 `Python` `Keras` `YOLO` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
 
 </td>
-<td width="32%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
 <img src="https://0307102bj41-afk.github.io/assets/ai_uiux2.png" width="100%" alt="CleanCheck 판독 결과 화면">
 <br/>
