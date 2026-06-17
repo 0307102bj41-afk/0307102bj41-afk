@@ -8,17 +8,11 @@
 
 **AI / Machine Learning · Embedded / Hardware**
 
-소프트웨어로 문제를 정의하고, 하드웨어로 솔루션을 완성하는 개발자
-
 <br/>
 
 <a href="https://0307102bj41-afk.github.io/" target="_blank">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0047AB&height=52&text=📁%20My%20Portfolio&fontSize=18&fontColor=ffffff&fontAlign=50&fontAlignY=55&width=560" />
 </a>
-
-<br/>
-
-> CleanCheck · STM32 RC Control · PLC MPS 프로젝트 상세 문서 + 트러블슈팅 포함
 
 <br/>
 
