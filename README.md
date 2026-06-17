@@ -6,6 +6,8 @@
 
 # 김동석
 
+
+
 **AI / Machine Learning · Embedded / Hardware**
 
 <br/>
