@@ -59,26 +59,26 @@
 ## Projects
 
 ### CleanCheck — 딥러닝 기반 생활공간 청결도 자동 진단 시스템 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Kor-JasonKim/DeepLearning_Project)
-> 2026 디바이스마트 ICT 융합 프로젝트 공모전 **장려상 수상** · 팀 돼지우리 (4인)
+> 팀 프로젝트 · 딥러닝 / 컴퓨터 비전
+>
+> 2026 디바이스마트 ICT 융합 프로젝트 공모전 **장려상 수상**
 
 스마트폰·IoT 홈캠으로 실내 환경을 촬영하면 CNN/YOLO/CLIP/SAM 멀티모델 앙상블이
 0~100점 청결 점수와 Grad-CAM 히트맵·SAM 오버레이 시각 피드백을 제공하는 시스템.
 
-
-
 | 항목 | 내용 |
 |------|------|
-| 모델 | ResNet50 · YOLOv8 · OpenAI CLIP · Meta SAM |
+| 모델 | ResNet50 · YOLO · OpenAI CLIP · Meta SAM |
 | 데이터 | 자체 구축 4,066장 (방 2,756 / 책상 1,310) |
 | 성능 (책상) | Accuracy 96.56% · F1 0.9560 · AUC 0.9971 |
 | 성능 (방) | Accuracy 95.97% · F1 0.9559 · AUC 0.9917 |
 | 하드웨어 | Raspberry Pi 5 + 부저 실시간 알림 연동 |
-| 담당 | Keras 모델 설계 · 학습 · Flask 서버 구축 |
+| 담당 | Keras 모델 설계·학습 · Grad-CAM·CLIP 구현 · Flask 서버 구축 |
 
 **핵심 트러블슈팅** — 조명·색상 과의존 오분류(Grayscale 전처리), 과적합(EarlyStopping·Dropout),
 데이터 편향(Grad-CAM 기반 데이터 보강), TF 버전 추론 불일치(Linux 환경 일원화)
 
-`Python` `Keras` `YOLOv8` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
+`Python` `Keras` `YOLO` `CLIP` `SAM` `Grad-CAM` `Flask` `Raspberry Pi`
 
 ---
 
@@ -87,8 +87,6 @@
 
 STM32F411(Cortex-M4) 기반 조이스틱 컨트롤러 + RC카 구동 펌웨어를
 레지스터 레벨에서 end-to-end로 구현한 임베디드 프로젝트.
-
-
 
 | 모듈 | 구현 내용 |
 |------|-----------|
@@ -110,7 +108,6 @@ UART 수신 무한 대기·패킷 깨짐(타임아웃 + 상태머신 파서)
 
 Mitsubishi PLC(Q03UDV)와 서보 모터를 활용해 금속·비금속 소재를 자동 판별하고
 3층 창고에 정밀 위치 제어로 적재·배출하는 MPS 기반 산업 자동화 시스템.
-
 
 | 항목 | 내용 |
 |------|------|
