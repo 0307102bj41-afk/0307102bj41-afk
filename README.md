@@ -7,7 +7,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-**AI / Machine Learning · Embedded / Hardware**
 
 <br/>
 
