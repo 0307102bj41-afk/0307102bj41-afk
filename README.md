@@ -7,8 +7,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# 김동석
-
 **AI / Machine Learning · Embedded / Hardware**
 
 <br/>
