@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://0307102bj41-afk.github.io/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=View+My+Portfolio+%E2%86%92;CleanCheck+%C2%B7+STM32+%C2%B7+PLC+MPS&font=Fira+Code&size=28&duration=2800&pause=800&color=0047AB&center=true&width=700&height=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:5C3EE8&height=120&section=header&text=%20View%20My%20Portfolio&fontSize=40&fontColor=ffffff&fontAlignY=42&width=900&desc=CleanCheck+·+STM32+·+PLC+MPS&descSize=16&descAlignY=70&descColor=cdddff" />
 </a>
 
 <br/>
