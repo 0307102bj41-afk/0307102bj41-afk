@@ -10,9 +10,7 @@
 
 <br/>
 
-<a href="https://0307102bj41-afk.github.io/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,100:5C3EE8&height=120&section=header&text=%20View%20My%20Portfolio&fontSize=40&fontColor=ffffff&fontAlignY=42&width=900&desc=CleanCheck+·+STM32+·+PLC+MPS&descSize=16&descAlignY=70&descColor=cdddff" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🚀_View_My_Portfolio-0047AB?style=for-the-badge&logoColor=white)](https://0307102bj41-afk.github.io/)
 
 <br/>
 <br/>
