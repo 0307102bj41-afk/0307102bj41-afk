@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0047AB,100:5C3EE8&height=220&section=header&text=Dongseok%20Kim&fontSize=56&fontColor=03234B&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Computer%20Vision%20%C2%B7%20Embedded%20%2F%20Hardware&descSize=18&descAlignY=60&descColor=0047AB" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0047AB,100:5C3EE8&height=220&section=header&text=Dongseok%20Kim&fontSize=56&fontColor=5C3EE8&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Computer%20Vision%20%C2%B7%20Embedded%20%2F%20Hardware&descSize=18&descAlignY=60&descColor=0047AB" width="100%">
 
 
 
