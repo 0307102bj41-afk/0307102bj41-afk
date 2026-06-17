@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://0307102bj41-afk.github.io/" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:5C3EE8&height=150&text=🚀%20View%20My%20Portfolio&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=55&width=900&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047AB,100:5C3EE8&height=150&text=%20My%20Portfolio&fontSize=55&fontColor=ffffff&fontAlign=50&fontAlignY=55&width=900&animation=scaleIn" />
 </a>
 
 <br/>
