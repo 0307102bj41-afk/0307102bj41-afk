@@ -5,7 +5,6 @@
 
 **AI / Machine Learning · Embedded / Hardware**
 
-*데이터로 공간을 읽고, 레지스터로 하드웨어를 제어합니다.*
 
 <br/>
 
