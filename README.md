@@ -65,7 +65,9 @@
 0~100점 청결 점수와 Grad-CAM 히트맵·SAM 오버레이 시각 피드백을 제공하는 시스템.
 
 <div align="center">
-  <img src="https://0307102bj41-afk.github.io/assets/cleancheck-arch.jpg" width="80%" alt="CleanCheck Architecture">
+  <sub><b>System Architecture</b></sub>
+  <br/><br/>
+  <img src="https://0307102bj41-afk.github.io/assets/cleancheck-arch.jpg" width="78%" alt="CleanCheck Architecture">
 </div>
 
 | 항목 | 내용 |
