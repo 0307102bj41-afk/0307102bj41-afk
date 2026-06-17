@@ -68,7 +68,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="42%" valign="top">
 
 | 항목 | 내용 |
 |------|------|
