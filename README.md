@@ -64,11 +64,13 @@
 스마트폰·IoT 홈캠으로 실내 환경을 촬영하면 CNN/YOLO/CLIP/SAM 멀티모델 앙상블이
 0~100점 청결 점수와 Grad-CAM 히트맵·SAM 오버레이 시각 피드백을 제공하는 시스템.
 
+<details>
+<summary><b>🖼 System Architecture 보기</b></summary>
+<br/>
 <div align="center">
-  <sub><b>System Architecture</b></sub>
-  <br/><br/>
-  <img src="https://0307102bj41-afk.github.io/assets/cleancheck-arch.jpg" width="78%" alt="CleanCheck Architecture">
+  <img src="https://0307102bj41-afk.github.io/assets/cleancheck-arch.jpg" width="80%" alt="CleanCheck Architecture">
 </div>
+</details>
 
 | 항목 | 내용 |
 |------|------|
