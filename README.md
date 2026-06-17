@@ -86,7 +86,7 @@
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://0307102bj41-afk.github.io/assets/cleancheck-ui.png" width="92%" alt="CleanCheck 판독 결과 화면">
+<img src="https://0307102bj41-afk.github.io/assets/ai_uiux2.png" width="92%" alt="CleanCheck 판독 결과 화면">
 <br/>
 <sub><b>판독 결과 화면</b> — Grad-CAM 히트맵 · 청결 점수 · CLIP 분석</sub>
 
@@ -157,9 +157,9 @@ Mitsubishi PLC(Q03UDV)와 서보 모터를 활용해 금속·비금속 소재를
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://0307102bj41-afk.github.io/assets/plc-hmi1.png" width="100%" alt="PLC HMI 서보 조작 화면">
+<img src="https://0307102bj41-afk.github.io/assets/plc1.png" width="100%" alt="PLC HMI 서보 조작 화면">
 <br/>
-<img src="https://0307102bj41-afk.github.io/assets/plc-hmi2.png" width="100%" alt="PLC HMI 동작 화면">
+<img src="https://0307102bj41-afk.github.io/assets/plc2.png" width="100%" alt="PLC HMI 동작 화면">
 <br/>
 <sub><b>HMI 작화</b> — 서보 조작 · 동작 모니터링</sub>
 
