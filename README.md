@@ -64,13 +64,7 @@
 스마트폰·IoT 홈캠으로 실내 환경을 촬영하면 CNN/YOLO/CLIP/SAM 멀티모델 앙상블이
 0~100점 청결 점수와 Grad-CAM 히트맵·SAM 오버레이 시각 피드백을 제공하는 시스템.
 
-<details>
-<summary><b>🖼 System Architecture 보기</b></summary>
-<br/>
-<div align="center">
-  <img src="https://0307102bj41-afk.github.io/assets/cleancheck-arch.jpg" width="80%" alt="CleanCheck Architecture">
-</div>
-</details>
+
 
 | 항목 | 내용 |
 |------|------|
@@ -94,9 +88,7 @@
 STM32F411(Cortex-M4) 기반 조이스틱 컨트롤러 + RC카 구동 펌웨어를
 레지스터 레벨에서 end-to-end로 구현한 임베디드 프로젝트.
 
-<div align="center">
-  <img src="https://0307102bj41-afk.github.io/assets/stm32-arch.png" width="80%" alt="STM32 RC Control Architecture">
-</div>
+
 
 | 모듈 | 구현 내용 |
 |------|-----------|
@@ -119,9 +111,6 @@ UART 수신 무한 대기·패킷 깨짐(타임아웃 + 상태머신 파서)
 Mitsubishi PLC(Q03UDV)와 서보 모터를 활용해 금속·비금속 소재를 자동 판별하고
 3층 창고에 정밀 위치 제어로 적재·배출하는 MPS 기반 산업 자동화 시스템.
 
-<div align="center">
-  <img src="https://0307102bj41-afk.github.io/assets/plc-flow.webp" width="55%" alt="PLC MPS Flowchart">
-</div>
 
 | 항목 | 내용 |
 |------|------|
