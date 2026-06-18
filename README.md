@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-> CleanCheck · STM32 RC Control · PLC MPS 프로젝트 상세 문서 + 트러블슈팅 포함
+CleanCheck · STM32 RC Control · PLC MPS 프로젝트 상세 문서 + 트러블슈팅 포함
 
 </div>
 
