@@ -151,8 +151,7 @@ Mitsubishi PLC(Q03UDV)와 서보 모터를 활용해 금속·비금속 소재를
 
 `Mitsubishi PLC` `GX Works2` `GT Designer3` `Servo Motor` `QD77MS2` `Ladder` `HMI`
 
-</td>
-<td width="42%" valign="top" align="center">
+
 
 
 
